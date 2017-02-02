@@ -4,6 +4,7 @@ import org.junit.Test;
 
 public class Sum {
 	
+	
 	@Test
 	public void testMethodSum() {
 		Assert.assertTrue((7 == sum(1, 3)));
