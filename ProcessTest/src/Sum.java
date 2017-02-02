@@ -4,7 +4,10 @@ import org.junit.Test;
 
 public class Sum {
 	
-	
+	@Test
+	public void testRe() {
+		Assert.assertTrue(true);
+	}
 	
 	@Test
 	public void testMethodSum() {
